@@ -1,5 +1,3 @@
-
-
-h1  {
- 
+body {
+  background-image: url("majoramoon.jpg");
 }
