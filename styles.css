@@ -7,13 +7,20 @@ body {
   }
   
 h1 {
-    color: yellow;
-    text-align: center;
-    outline: auto;
+    color: white;
 }
 h2  {
-    color: yellow;
+    color: white;
 }
 h3  {
-    color: yellow;
+    color: white;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+    border: green 2px solid;
 }
