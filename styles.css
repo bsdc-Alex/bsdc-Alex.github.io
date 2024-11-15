@@ -3,7 +3,7 @@ body {
     background-image: url("MoonImageITook.JPG");
     height: 1%;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
   }
   
 h1 {
